@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T01:51:15.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jYMIHFdn0NjLDgjkmtt0" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T01:53:18.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="es1BAFnjDIBNO4ur9MuX" version="23.1.5" type="github">
   <diagram name="Página-1" id="1plkASju0_Kt4MWmnCoA">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="MoPhaHGHqN-A-neYkpYU-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.177;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MoPhaHGHqN-A-neYkpYU-1" target="MoPhaHGHqN-A-neYkpYU-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MoPhaHGHqN-A-neYkpYU-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;u&gt;Ver Historial Clínico&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
